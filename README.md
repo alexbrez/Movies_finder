@@ -39,34 +39,30 @@ Make sure you have the following installed on your machine:
  - npm (Node Package Manager)
 
 Cloning the Repository
-bash
-Copy
-git clone https://github.com/your-username/movie-discovery-platform.git  
-cd movie-discovery-platform  
+
+ - git clone https://github.com/your-username/movie-discovery-platform.git  
+ - cd movie-discovery-platform
+   
 Installation
 Install the project dependencies using npm:
 
-bash
-Copy
-npm install  
-Set Up Environment Variables
-Create a .env.local file in the root of your project and add the following content:
+ - npm install  
+ - Set Up Environment Variables
+ - Create a .env.local file in the root of your project and add the following content:
 
 env
-Copy
-VITE_IMDB_API_KEY=your_tmdb_api_key  
-VITE_APPWRITE_PROJECT_ID=your_appwrite_project_id  
-VITE_APPWRITE_DATABASE_ID=your_appwrite_database_id  
-VITE_APPWRITE_COLLECTION_ID=your_appwrite_collection_id  
+
+ - VITE_IMDB_API_KEY=your_tmdb_api_key  
+ - VITE_APPWRITE_PROJECT_ID=your_appwrite_project_id  
+ - VITE_APPWRITE_DATABASE_ID=your_appwrite_database_id  
+ - VITE_APPWRITE_COLLECTION_ID=your_appwrite_collection_id  
 Replace the placeholders with your actual TMDB API key and Appwrite credentials.
 
 Running the Project
 Start the development server:
 
-bash
-Copy
-npm run dev  
-Open http://localhost:**** in your browser to view the project.
+ - npm run dev  
+ - Open http://localhost:**** in your browser to view the project.
 
 🖼️ Screenshots
 Here are some screenshots of the application in action:
