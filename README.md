@@ -7,24 +7,24 @@ Movie Discovery Platform is a React.js-based web application designed to provide
 This project was developed as a personal initiative to demonstrate my proficiency in React.js, API integration, and modern UI/UX design principles.
 
 ⚙️ Tech Stack
-Frontend: React.js
+ - Frontend: React.js
 
-Styling: Tailwind CSS
+ - Styling: Tailwind CSS
 
-Backend Services: Appwrite (for movie data management)
+ - Backend Services: Appwrite (for movie data management)
 
-API: TheMovieDatabase (TMDB) API
+ - API: TheMovieDatabase (TMDB) API
 
 🔋 Features
-Browse All Movies: Explore a vast collection of movies with an intuitive and user-friendly interface.
+ - Browse All Movies: Explore a vast collection of movies with an intuitive and user-friendly interface.
 
-Search Functionality: Easily search for specific movies using the search bar.
+ - Search Functionality: Easily search for specific movies using the search bar.
 
-Trending Movies: Discover trending movies based on a dynamic algorithm.
+ - Trending Movies: Discover trending movies based on a dynamic algorithm.
 
-Modern UI/UX: A sleek and responsive design for an optimal viewing experience on all devices.
+ - Modern UI/UX: A sleek and responsive design for an optimal viewing experience on all devices.
 
-Reusable Components: Clean and modular code architecture for scalability and maintainability.
+ - Reusable Components: Clean and modular code architecture for scalability and maintainability.
 
 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
@@ -32,11 +32,11 @@ Follow these steps to set up the project locally on your machine.
 Prerequisites
 Make sure you have the following installed on your machine:
 
-Git
+ - Git
 
-Node.js
+ - Node.js
 
-npm (Node Package Manager)
+ - npm (Node Package Manager)
 
 Cloning the Repository
 bash
@@ -71,14 +71,17 @@ Open http://localhost:**** in your browser to view the project.
 🖼️ Screenshots
 Here are some screenshots of the application in action:
 
-Home Page
+ - Home Page
+   
 ![image](https://github.com/user-attachments/assets/579a88e8-5c16-4c3b-b119-532d99b74eec)
 
 
-Movie Search
+ - Movie Search
+   
 ![image](https://github.com/user-attachments/assets/2b8058e8-134b-4780-aba4-e1a3cbf26152)
 
 
-Trending Movies
+ - Trending Movies
+   
 ![image](https://github.com/user-attachments/assets/8698f1fd-41f5-40de-9d52-59af8a6b4e5f)
 
